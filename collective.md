@@ -10,7 +10,7 @@ Landback Universities is a collaborative effort. Additional participants' names,
 
 ## Mellon Grant Team
 
-**Jennifer Guiliano** is Associate Professor of History, Native American, and Indigenous Studies and American Studies at IUPUI and the principal investigator of Landback Universities. [[Bio]](/bio)
+**Jennifer Guiliano** is Associate Professor of History, Native American, and Indigenous Studies and American Studies at IUPUI and the principal investigator of Landback Universities. [[Bio]](../landback-universities/bio)
 
 **Megan Red Shirt-Shaw** (Oglala Lakota) is Director of Native Student Services at the University of South Dakota and a doctoral student in organizational leadership at the University of Minnesota and a co-principal investigator for Landback Universities. [Bio]
 

@@ -10,7 +10,7 @@ Landback Universities emerged from conversations between Jennifer Guiliano (IUPU
 
 This pilot project aims to move colleges and universities beyond performative nods towards decolonization — such as land acknowledgments — to identify and operationalize practices for decolonizing higher education. While there are myriad ways colonialism operates through our institutions, we focus on land relations because rematriation of land lies at the heart of decolonization.
 
-In this context, Landback Universities as three objectives:
+In this context, Landback Universities has three objectives:
 
 - Explore how to facilitate conversations between faculty, administrators, staff, and students to develop strategies for meaningfully decolonizing university operations;
 - Develop and disseminate recommendations that colleges and universities can implement to return stewardship of university lands to the Native nations they have disposessed; and

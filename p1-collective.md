@@ -22,7 +22,7 @@ Landback Universities is a collaborative effort. Additional participants' names,
 
 ## Advisory Board  
 
-**Megan Bang** (Ojibwe and Italian descent) is Senior Vice President at the Spencer Foundation and Professor of Learning Sciences at Northwestern University. She studies dynamics of culture, learning, and development broadly with a specific focus on the complexities of navigating multiple meaning systems in creating and implementing more effective and just learning environments in science, technology, engineering, arts, and mathematics education. [[profile]](https://sites.northwestern.edu/meganbang/)  
+**Megan Bang** (Ojibwe and Italian descent) is Senior Vice President at the Spencer Foundation and Professor of Learning Sciences at Northwestern University. She studies dynamics of culture, learning, and development broadly with a specific focus on the complexities of navigating multiple meaning systems in creating and implementing more effective and just learning environments in science, technology, engineering, arts, and mathematics education. [[Profile]](https://sites.northwestern.edu/meganbang/)  
 
 **Cori Bazemore-James** (Seneca) is Assistant Vice Provost in the Graduate School Diversity Office at the University of Minnesota, where she advises the Vice Provost and Dean of Graduate Education to ensure effective advocacy, planning, and support for diversity, equity, and inclusion in graduate education. She is also Affiliate Faculty in the Higher Education Program at the University of Minnesota and previously served as Director of Retention & Success. [[Profile]](https://www.linkedin.com/in/cori-bazemore-james) 
 

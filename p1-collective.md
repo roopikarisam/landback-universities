@@ -18,4 +18,14 @@ Landback Universities is a collaborative effort. Additional participants' names,
 
 **Elizabeth Rule** (enrolled citizen of the Chickasaw Nation) is Assistant Professor of Critical Race, Gender, and Culture Studies at American University in Washington, DC and is a co-principal investigator for Landback Universities. [[Bio]](../landback-universities/p4-bios#elizabeth-rule)
 
-**Meredith McCoy** (Turtle Mountain Band of Chippewa descent) is Assistant Professor in American Studies and History at Carleton College and a consultant for Landback Universities. [[Bio]](../landback-universities/p4-bios#meredith-mccoy)
+**Meredith McCoy** (Turtle Mountain Band of Chippewa descent) is Assistant Professor in American Studies and History at Carleton College and a consultant for Landback Universities. [[Bio]](../landback-universities/p4-bios#meredith-mccoy)  
+
+## Advisory Board  
+
+**Megan Bang** (Ojibwe and Italian descent) is Senior Vice President at the Spencer Foundation and Professor of Learning Sciences at Northwestern University. She studies dynamics of culture, learning, and development broadly with a specific focus on the complexities of navigating multiple meaning systems in creating and implementing more effective and just learning environments in science, technology, engineering, arts, and mathematics education. [[profile]](https://sites.northwestern.edu/meganbang/)  
+
+**Cori Bazemore-James** (Seneca) is Assistant Vice Provost in the Graduate School Diversity Office at the University of Minnesota, where she advises the Vice Provost and Dean of Graduate Education to ensure effective advocacy, planning, and support for diversity, equity, and inclusion in graduate education. She is also Affiliate Faculty in the Higher Education Program at the University of Minnesota and previously served as Director of Retention & Success. [[Profile]](https://www.linkedin.com/in/cori-bazemore-james) 
+
+**Brian Brayboy** (Lumbee) is President’s Professor in the School of Social Transformation at Arizona State University and Vice President of Social Advancement. He also serves as senior advisor to the president, director of the Center for Indian Education, and co-editor of the *Journal of American Indian Education.* [[Profile]](https://search.asu.edu/profile/1148916)  
+
+**Kara Strass** (mahkoonsihkwa), a citizen of the Miami Tribe of Oklahoma, is the Director of Miami Tribe Relations at the Myaamia Center at Miami University. As the liaison between the Miami Tribe of Oklahoma and Miami University, Kara strives to strengthen this relationship, which is now 50-years old. [[Profile]](https://miamioh.edu/myaamia-center/about/staff-faculty-affiliates/strass/index.html)  

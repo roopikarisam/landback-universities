@@ -6,6 +6,8 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
+**Apply to participate in our convenings! Applications are due February 15, 2023**. Visit our [application](https://docs.google.com/forms/d/e/1FAIpQLSd8apQvVZ3st9JoD4YFPCI7N81FLuLngt9TECH8nap8ScvPjA/viewform) for more details.
+
 Landback Universities emerged from conversations between Jennifer Guiliano (IUPUI), Meredith McCoy (Carleton College), and Roopika Risam (Dartmouth College) while they were working on a project on the inherent tensions between the discourses of "diversity, equity, and inclusion" (DEI) and "decolonization" that are circulating at U.S. higher education institutions today.
 
 This pilot project aims to move colleges and universities beyond performative nods towards decolonization — such as land acknowledgments — to identify and operationalize practices for decolonizing higher education. While there are myriad ways colonialism operates through our institutions, we focus on land relations because rematriation of land lies at the heart of decolonization.
